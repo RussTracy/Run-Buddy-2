@@ -24,3 +24,5 @@ Made with ❤️ by [Russ Tracy]
 ## Site Image
 
 ![alt text](assets/images/RunBuddy2ScreenShot.jpg)
+
+### ©️2020 Run Buddy, Inc 
