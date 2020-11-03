@@ -1,4 +1,4 @@
-# Run Buddy 2.0 (Advanced CSS Module)
+# Run Buddy 2.0 (Module 2: Advanced CSS)
 
 ## Description 
 
@@ -10,9 +10,16 @@ While examining the site I noticed that on smaller view screens, the text in sev
 
 I learned the importance of clean code and while updating the site was able to remove a number of duplicate css rules. Overall this was a fun project and really helped sharpen my skills as a developer.
 
+## Built With
+* HTML
+* CSS
+
 ## Site Location
 
 [Run Buddy 2.0](https://russtracy.github.io/Run-Buddy-2/)
+
+## Contribution
+Made with ❤️ by [Russ Tracy]
 
 ## Site Image
 
