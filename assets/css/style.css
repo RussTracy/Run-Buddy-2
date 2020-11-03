@@ -115,6 +115,15 @@ footer a{
      width: 100%;
      margin-bottom: 15px;
 }
+.hero-cta{
+     /* text-align: right;
+     color: white;
+     display: inline-flexbox;
+     width: min-content; */
+}
+.hero-cta h2{
+     /* color: #fce138; */
+}
 /* End Hero Styles */
 
 .intro{
