@@ -1,4 +1,4 @@
-# Run Buddy 2.0 (Module 2: Advanced CSS)
+# Run Buddy 2.0 (Module 2: Advanced CSS Lesson)
 
 ## Description 
 
