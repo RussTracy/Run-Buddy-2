@@ -1,6 +1,4 @@
-# Run Buddy 2.0 (Module 2: Advanced CSS)
-
-## Description 
+# Run Buddy 2.0
 
 This site was designed to help me to understand and code HTML5, CSS and Git. During this challenge I was tasked with refactoring existing code to bring it up to a more accessible standard.
 
